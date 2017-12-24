@@ -2,9 +2,7 @@
 
 คำสั่งติดตั้ง
 
-1. sudo su
-2. cd
-3. wget https://github.com/byvpn/Debian8x64/raw/master/install
-4. chmod +x install && ./install
+1. พิมพ์ sudo su
+2. พิมพ์ cd; wget https://github.com/byvpn/Debian8x64/raw/master/install; chmod +x install; ./install
 
 ----------
